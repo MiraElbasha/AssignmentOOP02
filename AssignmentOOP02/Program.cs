@@ -57,7 +57,16 @@ namespace AssignmentOOP02
                 Different number of parameters
              */
             #endregion
+
+            #region Q4
+            //a
+            //When a field is static it belongs to the class itself not to individual objects.
+
+            //b
+            //no it cannot be accessed --> static methods belong to the class
+
             #endregion
+        #endregion
         }
 
         #region Part 1
