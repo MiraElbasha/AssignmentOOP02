@@ -22,6 +22,24 @@ namespace AssignmentOOP02
 
             #endregion
 
+            #region Q2
+            //the difference between field and property
+            /*
+             1-field
+                -direct data storage 
+                -no validation
+                -Break Encapsulation
+                -Starts with _
+
+
+            2-Properties
+                -Controlled Access
+                -can validate
+                -Enforse Encapsulation
+                -Starts with capital letter (but same field name)
+             */
+
+            #endregion
 
             #endregion
         }
