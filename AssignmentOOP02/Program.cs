@@ -41,6 +41,22 @@ namespace AssignmentOOP02
 
             #endregion
 
+            #region Q3
+            //a
+            //An indexer allows an object to be accessed like an array.
+
+            //b
+            //So it makes the object behave like a collection
+
+            //c
+            /*
+              yes class can have more thank one indexer but with
+
+                Different parameter types
+
+                Different number of parameters
+             */
+            #endregion
             #endregion
         }
 
@@ -58,6 +74,31 @@ namespace AssignmentOOP02
 
         //}
 
+        #endregion
+
+        #region Q3
+        //b
+        //public class StudentRegister
+        //{
+        //    private string[] names = new string[5];
+        //    public string this[int index]
+        //    {
+        //        get
+        //        {
+        //            if (index < 0 || index >= names.Length)
+        //                throw new IndexOutOfRangeException("Invalid index.");
+
+        //            return names[index];
+        //        }
+        //        set
+        //        {
+        //            if (index < 0 || index >= names.Length)
+        //                throw new IndexOutOfRangeException("Invalid index.");
+
+        //            names[index] = value;
+        //        }
+        //    }
+        //}
         #endregion
         #endregion
     }
